@@ -1,15 +1,18 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Used Technologies
+## <a name="tech-stack">⚙️ Tech Stack</a>
 
---Typescript
---React
---Next.js
---TailwindCSS
---shadcn/ui
---Node.js
---Express.js
---MongoDB
+- Node.js
+- Next.js
+- Express.js
+- MongoDB
+- TypeScript
+- TailwindCSS
+- Stripe
+- Zod
+- React Hook Form
+- Shadcn
+- uploadthing
 
 ## Getting Started
 
